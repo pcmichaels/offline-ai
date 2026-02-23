@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.{cmd,[Cc][Mm][Dd]} text eol=crlf
+*.{bat,[Bb][Aa][Tt]} text eol=crlf
+*.ps1 text eol=crlf
