@@ -39,6 +39,10 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+# Cursor / AI context (local only)
+AGENTS.md
+agents.md
+
 # User-specific
 appsettings.Development.json
 appsettings.*.local.json
