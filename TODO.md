@@ -10,11 +10,11 @@
 
 ## 2. MCP Server for Offline LLM (`mcp-server-offline-llm/`)
 
-- [ ] 2.1 Implement MCP server project
-- [ ] 2.2 Integrate with LM Studio (local OpenAI-compatible API)
-- [ ] 2.3 Expose chat/completion tools via MCP protocol
-- [ ] 2.4 Add configuration for LM Studio endpoint and model selection
-- [ ] 2.5 Document setup and usage (including LM Studio setup)
+- [x] 2.1 Implement MCP server project
+- [x] 2.2 Integrate with LM Studio (local OpenAI-compatible API)
+- [x] 2.3 Expose tools via MCP protocol (CreateFile, AppendToFile)
+- [x] 2.4 Add configuration (appsettings.json)
+- [x] 2.5 Document setup and usage (including LM Studio setup)
 
 ## 3. General
 

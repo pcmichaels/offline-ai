@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-server-offline-llm": {
+      "command": "C:\\Users\\pcmic\\source\\repos\\offline-ai\\src\\mcp-server-offline-llm\\publish\\McpServerOfflineLlm.exe",
+      "args": []
+    }
+  }
+}

@@ -1,5 +1,6 @@
 # Build results
 [Dd]ebug/
+[Pp]ublish/
 [Rr]elease/
 x64/
 x86/
@@ -64,3 +65,6 @@ Desktop.ini
 *.log
 *.ps1~
 ~$*
+
+# Local agent personalities
+agents/
